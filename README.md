@@ -1,1 +1,1 @@
-# fnirs-nonwhite
+# fnirs-rsfc-nonwhite
