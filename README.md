@@ -22,3 +22,4 @@ Check [my Google site](https://sites.google.com/view/mengmengwang/research) for 
 
 `ns_sim.m` : a correction method to correct for the effects for multiplicative non-stationary signals in sample correlation distributions
 
+*Note: The code files run in Matlab, include generate simulated signals, apply the proposed corrections and generate results*
