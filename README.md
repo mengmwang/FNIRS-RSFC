@@ -16,7 +16,7 @@ Code for simulation signals
 
 The methods can be applied in experimental fnirs data
 
-Check [this link](https://sites.google.com/view/mengmengwang/research) for detailed methods
+Check [my Google site](https://sites.google.com/view/mengmengwang/research) for detailed methods and publications
 
 `nw_sim.m` : a statistical correction method to correct for the effects for non-white signals in sample correlation distributions
 
