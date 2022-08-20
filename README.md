@@ -1,4 +1,4 @@
-# fNIRS-RSFC
+# FNIRS-RSFC
 
 ## Signal Analysis in fNIRS RSFC
 
