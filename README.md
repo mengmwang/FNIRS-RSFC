@@ -1,4 +1,4 @@
-# fnirs-rsfc
+# fNIRS-RSFC
 
 ### Background
 
