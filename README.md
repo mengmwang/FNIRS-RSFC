@@ -1,12 +1,21 @@
 # fNIRS-RSFC
 
-### Background
+## Signal Analysis in fNIRS RSFC
 
-Resting State Functional Connectivity (RSFC) in Functional Near-Infrared Spectroscopy (fNIRS) Signals
+Functional near-infrared spectroscopy (fNIRS) is widely used as a non-invasive neuroimaging modality. FNIRS resting state functional connectivity (RSFC) can be measured using the correlation-based method via Pearson's correlation coefficient. 
 
-RSFC -> Pearson's correlation coefficient -> signal assumptions for valid statistical results
+Assumptions are imposed on the fNIRS signals when performing correlation-based connectivity analyses. Pearson's correlation coefficients and the subsequent statistical tests assume stationarity and whiteness of signals. Violation of any one of these assumptions may invalidate either the sample correlation estimate, or the statistical significance results.
 
-FNIRS signals -> non-white and non-stationary -> violate assumptions -> invalidate statistical RSFC results
+The following two aspects of fNIRS signal properties are considered, 1) autocorrelated fNIRS signals violate the whiteness assumption, 2) non-stationary components in fNIRS signals violate the stationarity assumption. Signal analysis solutions that correct the statistical tests are proposed based on the considerations.  
+
+### Correct for coloured frequency spectra in fNIRS signals
+
+*Abstract: *
+
+### Correct for non-stationary components in fNIRS signals
+
+
+
 
 ### Code files
 
