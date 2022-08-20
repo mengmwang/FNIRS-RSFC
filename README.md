@@ -36,4 +36,4 @@ The code files run in MATLAB, simply type the file names `nw_sim` and `ns_sim` i
 
 The code files in this repository contain simulation signals and results only. The correction methods can be applied in experimental fNIRS data. 
 
-This is part of my PhD research. Please get in touch if you are interested to know more! :wink:
+*This is part of my PhD research. Please get in touch if you are interested to know more! :wink:*
